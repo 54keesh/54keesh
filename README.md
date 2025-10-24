@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kiki1435
+- 👋 Hi, I’m kashif
 - 👀 I’m a web developer, cyber security, Game dev enthusiast. 
 - 🐱‍💻 Scripting langauges - PHP, python, Bash, terminal - are my thing
-- 🌱 I’m currently learning newer technologies like ROR, Rust and Go lang.
+- 🌱 I’m currently learning newer technologies like Rust and Go lang.
 - 💞️ I’m looking to collaborate on github regarding web development
 - 📫 Reach me at kashifraza8999@gmail.com
 
